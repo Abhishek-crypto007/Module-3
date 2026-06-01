@@ -25,6 +25,7 @@ else:
 ```
 
 ## Output
+<img width="1357" height="805" alt="image" src="https://github.com/user-attachments/assets/e6779b4d-a3d9-488f-aff6-0d7f7fcdd529" />
 
 ## Result
 Thus the python  program to check whether the string `"google"` is a **palindrome** or not, without using built-in palindrome checking functions is completed successfully.
